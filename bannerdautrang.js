@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='tranhuynh.vn' target='_blank'><img src='https://4.bp.blogspot.com/-VQH3nx5X69Q/WstwTfs-n_I/AAAAAAAAAAc/b0bwzRfgnW416Kn6S5XAkaeKXDKEschmACLcBGAs/s320/LOGO%2BTRAN%2BHUYNH%2B-%2BFINAL.jpg' width='500px'/><br/>13 bán đá nhân tạo solid surface</a>. liên hệ 0934883979. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='tranhuynh.vn' target='_blank'><img src='https://4.bp.blogspot.com/-VQH3nx5X69Q/WstwTfs-n_I/AAAAAAAAAAc/b0bwzRfgnW416Kn6S5XAkaeKXDKEschmACLcBGAs/s320/LOGO%2BTRAN%2BHUYNH%2B-%2BFINAL.jpg' width='500px'/><br/>Bán đá nhân tạo solid surface</a>. liên hệ 0934883979. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
